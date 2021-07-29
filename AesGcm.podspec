@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AesGcm'
-  s.version          = '1.2.2'
+  s.version          = '1.2.3'
   s.summary          = 'Galois/Counter Mode (GCM) with Advanced Encryption System (AES).'
 
   s.description      = <<-DESC
